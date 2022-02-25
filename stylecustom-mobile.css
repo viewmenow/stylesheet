@@ -1,0 +1,549 @@
+.each-link{
+padding: 5px 30px;
+border-bottom: 1px solid white;
+width: 50%;
+}
+.each-link a{
+    color: white;
+}
+
+.navbar-fixed-top .navbar-header .navbar-brand{
+  background-image: url(http://livedrawonline.net/img/logoboss.png?v=2) !important;
+}
+
+
+.each-link:nth-child(1), .each-link:nth-child(2){
+    padding-top: 8px;
+}
+
+.each-link:nth-child(7), .each-link:nth-child(8){
+    padding-bottom: 8px;
+}
+.row3{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.row2{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.w-100{
+    width: 100% !important;
+}
+.payment-logo .each-bank-payment {
+    background: #2f3745;
+    border: 1px solid #212732;
+    text-align: center;
+    min-height: 2.5em;
+    max-height: 3em;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.payment-logo .each-bank-payment img {
+    max-width: 100%;
+    padding: 8px 0px;
+    margin: auto;
+}
+#disclaimer-footer .title-disclaimer-footer, #payment-information-footer .title-payment-footer {
+    color: white;
+    font-size: 0.8em;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.container2 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#footer-login{
+    padding: 0;
+}
+#game-responsibility-footer, #copyright-footer {
+    text-align: center;
+    color: #f17932;
+    font-size: 0.8em;
+    display: inline-block;
+}
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+.col-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+#disclaimer-footer .disclaimer p {
+    color: #adbfef;
+    text-align: left;
+    font-size: 0.8em;
+    word-break: break-word;
+}
+.pay{
+    text-align: left;
+}
+
+.header-logo2{
+margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="text"], input[type="password"], select, textarea
+{
+border-radius: 20px 20px 20px 20px !important;
+}
+
+.margin-top-15
+{
+    margin-top: 0px !important;
+}
+
+
+
+
+input[type="submit"], .button, .buttons, .buttond, .buttonss, .buttong, .buttonlc2, .buttonbl, .buttondapk{
+border-radius: 20px 20px 20px 20px !important;
+}
+
+.margin-top-15
+{
+    margin-top: 0px !important;
+}
+
+@media only screen and (max-width: 1100px) {
+.contact-button{display:none;}
+.sidenav .closebtn{display:none;}
+#mySidenav{display:none;}
+mySidenav2{display:none;}
+.bank{background-color: white !important;}
+.bank{height: 25px !important;}
+.bank{width : 24% !important;}
+#btm_banner{display:none;}
+}
+
+@media only screen and (min-width: 1100px) {
+.banmini{display: none !important;}
+}
+
+.banmini {
+position: fixed;
+width: 100%;
+height: 100%;
+top: 70px;
+background: rgba(0,0,0,0.8);
+text-align: center;
+z-index: 999;
+}
+
+
+
+.button-aaa {
+background: #fed804;
+
+}
+
+.button-aab {
+background: #fed804;
+
+}
+
+.button-aac {
+background: #fed804;
+
+}
+
+.button-aad {
+background: #fed804;
+
+}
+
+.button-aaf {
+background: #fed804;
+
+}
+
+.button-blue {
+background: #fed804 !important;
+box-shadow: none !important;
+border: 1px #404040 solid;
+}
+
+.button-green {
+background: #fed804!important;
+box-shadow: inset 0 -2px 0 yellow;
+border: 1px #404040 solid;
+}
+
+.buttonWrap {
+    color: #000000 !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: bold;
+    text-transform: uppercase !important;
+    font-size: 16px !important;
+}
+
+.buttonlc2{
+    color: white !important;
+    font-size: 12px !important;
+}
+
+.buttonlc{
+    width: 90px !important;
+}
+
+.smartb1 .space{
+    right:25px !important;
+}
+
+.byebye {
+width: 100%;
+background-color: black;
+color: white;
+margin-top: 150px;
+}
+
+.modal-content{
+background-color: #000000 !important;
+}
+
+.modal-header {
+    border-bottom: 1px solid #000000;
+}
+
+.accordion-content{
+display: none;
+}
+
+
+#header2 {
+    height: auto;
+    left: -0px;
+    margin: 130px 0 0;
+    padding: 0;
+    position: absolute;
+    width: 183px;
+}
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+.info-side {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e20000+0,940000+50,740000+50,740000+50,4c0000+100 */
+    background: #e20000; /* Old browsers */
+    background: -moz-linear-gradient(top, #e20000 0%, #940000 50%, #740000 50%, #740000 50%, #4c0000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #e20000 0%,#940000 50%,#740000 50%,#740000 50%,#4c0000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #e20000 0%,#940000 50%,#740000 50%,#740000 50%,#4c0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e20000', endColorstr='#4c0000',GradientType=0 ); /* IE6-9 */
+    color: #fff;
+    float: left;
+    margin-bottom: 5px;
+    padding: 7px 15px;
+    position: relative;
+    width: 100%;
+}
+.info-side p{ margin-bottom:0px; font-size:14px; color:#fff;}
+.info-side .mobinfo-title{font-family: 'AvenirNextLTPro-Bold';}
+.info-icon {
+    background-color: #efefef;
+    border-radius: 50%;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.4) inset;
+    color: #484848;
+    font-size: 24px;
+    height: 38px;
+    line-height: 60px;
+    position: absolute;
+    right: -15px;
+    text-align: center;
+    top: -2px;
+    width: 38px;
+}
+.info-icon i {
+    position: relative;
+    top: -9px;
+}
+.blackb > img {
+    margin-top: -9px;
+    width: 60%;
+}
+.call-icon > img {
+    margin-top: -10px;
+    width: 60%;
+}
+.line-icon > img {
+    margin-top: -9px;
+    width: 60%;
+}
+
+@media (max-width: 767px) {
+    #slider_secon {
+        display: none;
+    }
+    .cont-mob {
+        padding: 0 !important;
+        overflow:hidden;
+    }
+    .banner-head {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .banner-col .banner-pic {
+        margin-bottom:0px !important;
+    }
+}
+
+
+
+
+.bank {
+    text-align: center;
+    width: 145px;
+    height: 74px;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0);
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+}
+
+.btn-group.with-heading {
+display : none;
+}
+
+
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/d59pzRy/BCA.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/S7D7pFM/BRI.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/862M5Rf/bni.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/yYcRznT/danamon.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/443d26p/BII.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .online{
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/64R7nnd/mdr.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .online {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/bXL9qTq/panin.gif') 0px 0px no-repeat !important;
+}
+
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline{
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/DRgkqbs/BCAOF.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline{
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/DDG1nzY/briof.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline{
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/Z8zfnpf/bnioff.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/Vq9xwfn/danamonof.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .offline{
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/hgH22HK/BIIOF.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .offline{
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/3csLnmP/mdroff.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .offline {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/4P2GCqq/PANIN-OFF.gif') 0px 0px no-repeat !important;
+}
+
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/bHhMK1b/BCAG.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/XDYkSZx/BRIG.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/yfMsY58/BNIG.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/x8PyxLk/danamong.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/6Yk1x65/BIIG.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/bvzZRPp/mdrg.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .trouble {
+width: 168px !important;
+  height: 75px !important;
+background: url('https://i.ibb.co/bNdjhMn/paning.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-carousel.bankscroll  {
+    margin-top: -130px;
+}
+
+
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {  content:url("https://i.ibb.co/CbDwJCp/sas.gif") !important;}/*singapore*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {  content:url("https://i.ibb.co/nj2wN9K/sdy.gif") !important;}/*sydney*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {  content:url("https://i.ibb.co/BNCMKkc/hk.gif") !important;}/*hk*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {  content:url("https://i.ibb.co/fp3t9xF/ttm.gif") !important;}/*TOTOMACAU*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {  content:url("https://i.ibb.co/WvRhcqx/sg45.gif") !important;}/*SG45*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {  content:url("https://i.ibb.co/sHDwwcs/pcso.gif") !important;}/*PCSO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {  content:url("https://i.ibb.co/gzW8rsV/bullse.gif") !important;}/*BE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) { content:url("https://i.ibb.co/10DLhGD/ktk.gif") !important;}/*KENTUCKY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {  content:url("https://i.ibb.co/4sK0ZVN/virgin.gif") !important;}/*VIRGINIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {  content:url("https://i.ibb.co/LS0VjsJ/cambodia.gif") !important;}/*CAMBODIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {  content:url("https://i.ibb.co/z4tkPwc/china.gif") !important;}/*CHINA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {  content:url("https://i.ibb.co/7KvKmp3/caro.gif") !important;}/*Carolina*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {  content:url("https://i.ibb.co/dpyqTZJ/phoen.gif") !important;}/*PHOENIX*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {  content:url("https://i.ibb.co/Fxhvjt6/buffalo.gif") !important;}/*BUFFALO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {  content:url("https://i.ibb.co/2jPK0gW/taiwan.gif") !important;}/*TAIWAN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {  content:url("https://i.ibb.co/dtsBcRg/portland.gif") !important;}/*PORTLAND*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {  content:url("https://i.ibb.co/ZLCxTRd/northkorea.gif") !important;}/*KOREA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {  content:url("https://i.ibb.co/LPJZrZ1/thailand.gif") !important;}/*THAILAND*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) { content:url("https://i.ibb.co/9Z5CZ22/sicball.gif") !important;}/*sicbo ball*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {  content:url("https://i.ibb.co/vZBJXBJ/5d.gif") !important;}/*5d ball*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {  content:url("https://i.ibb.co/Zf11HZX/MONO.gif") !important;}/*monopoly*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {  content:url("https://i.ibb.co/pvYZx6B/24d-spin.gif") !important;}/*24dspin*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {  content:url("https://i.ibb.co/GxB06cP/oglok.gif") !important;}/*OGLOK*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {  content:url("https://i.ibb.co/25W4rFj/suwit.gif") !important;}/*SUWIT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {  content:url("https://i.ibb.co/GxjkvyG/pokerdice.gif") !important;}/*pokerdice*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {  content:url("https://i.ibb.co/gRyC9W2/redwhite.gif") !important;}/*REDWHITE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {  content:url("https://i.ibb.co/v3CHKS2/fantan.gif") !important;}/*FANTAN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {  content:url("https://i.ibb.co/CVbH2Sy/3dshio.gif") !important;}/*3d shio*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {  content:url("https://i.ibb.co/XDgtsSK/12d.gif") !important;}/*12d*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {  content:url("https://i.ibb.co/TmzPwdp/24d.gif") !important;}/*24d*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {  content:url("https://i.ibb.co/WpjcG4j/roullete.gif") !important;}/*Roullete*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {  content:url("https://i.ibb.co/wKhGqc3/haed.gif") !important;}/*HEADTAILS*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {  content:url("https://i.ibb.co/82cc9rL/baccarat.gif") !important;}/*BACCARAT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {  content:url("https://i.ibb.co/5TW2mDQ/dragon.gif") !important;}/*Dragontiger*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) {  content:url("https://i.ibb.co/XxGdqtJ/dice-6.gif") !important;}/*DICE6*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) {  content:url("https://i.ibb.co/2gdP1JJ/bill.gif") !important;}/*billiards*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {  content:url("https://i.ibb.co/HGQjNYF/sicbo.gif") !important;}/*SICBO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) {  content:url("https://i.ibb.co/3WmnTPP/gong.gif") !important;}/*GONGBALL*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) {  content:url("https://i.ibb.co/DY9W5n4/raceball.gif") !important;}/*RACEBALL*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(40) {  content:url("https://i.ibb.co/0CMN3JV/roullete-fast.gif") !important;}/*roullete-f*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(41) {  content:url("https://i.ibb.co/xqXCSfk/niu.gif") !important;}/*NIUNIU*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(42) {  content:url("https://i.ibb.co/55x1HjH/idn4stand.gif") !important;}/*idn4stand*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(43) {  content:url("https://i.ibb.co/dgwD947/48d.gif") !important;}/*48d*/
+
+
+.smartb2 .header-logo2 {
+    width: 160px !important;
+    height: 40px !important;
+    margin-top:10px !important;
+}
+
+.buttons {
+    box-shadow:none !important;
+}
+
+.slider .results{
+    background-color:#F9CB00 !important;
+    color: white !important;
+}
+
+.results .pool-name{
+    color: black !important;
+    font-weight:bold !important;
+}
+
+.page-header {
+    border-bottom:2px solid #fed805 !important;
+}
+
