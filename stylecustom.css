@@ -1,0 +1,423 @@
+.breadcrumbs{
+  padding-top:40px !important;
+}
+
+.news-head, .news-body{
+  background-color:#f7ce00 !important;
+}
+
+.news-head{
+  border-bottom-left-radius:20px;
+}
+.news-body{
+  border-bottom-right-radius:20px;
+}
+
+.tickercontainer .masking{
+  padding-top:5px;
+}
+
+.run-text-depan{
+  color:black !important;
+}
+
+button.btn-theme, .btn.btn-theme{
+  background: #f7ce00 !important;
+  letter-spacing: 0px;
+}
+
+/*----------------------------------------- POSITION CENTER ----------------------------- */
+
+.section .container{
+  background: rgba(0,0,0, 1.0) !important;
+}
+
+section.section{
+  margin-top:10px !important;
+}
+
+/*----------------------------------------- POSITION SIDE ----------------------------- */
+.blog-sidebar .nav.menu > li > a{
+  color:white !important;
+}
+
+.blog-sidebar .nav.menu > li > a > i{
+  background-image: -webkit-linear-gradient(top, rgb(247, 206, 0), rgb(247, 206, 0)) !important;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-color: initial;
+}
+
+#bank.section .container{
+  padding:25px !important; border-radius:8px !important;
+}
+
+.blog-posts ol, ul{
+  padding-right: 0px !important;
+}
+
+
+.results{
+  color: #000000 !important;
+  background: #f7ce00 !important;
+  background-image:none !important;
+}
+
+.results h4{
+  color: #000000 !important;
+}
+
+.results h4 i{
+  background-image: -webkit-linear-gradient(#000, #000) !important;
+}
+
+.results-detail,.news-detail{
+  background-color:black !important;
+}
+
+.results .btn-group.circle-navigations button i, .btn-group.circle-navigations .btn i, .btn-group.circle-navigations button:focus i, .btn-group.circle-navigations .btn:focus i {
+      color: #000000 !important;
+      font-weight:bold;
+}
+
+.latest-news a{
+  text-decoration: none !important;
+  color:#f7ce00 !important;
+}
+
+.latest-news a:hover{
+  text-decoration: none !important;
+  color:#02caf9;
+}
+
+
+.sidebar-button .btn-theme{
+  width:100%;
+}
+
+BODY{
+    background-image: url(http://livedrawonline.net/img/yellow-rev.jpg) !important;
+    background-position-x: center;
+    background-position-y: top;
+    background-size: cover;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar-fixed-top .navbar-header .navbar-brand{
+  background-image: url(http://livedrawonline.net/img/logoboss.png?v=2) !important;
+}
+
+
+#footer-sosmed.container {
+    width: 1140px;
+    margin:0 auto;
+}
+
+#footer-sosmed .contact-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+#footer-sosmed .contact-single {
+    width: 198px;
+    height: 40px;
+    border-radius: 50px;
+    padding: 5px;
+    margin:5px;
+}
+
+#footer-sosmed .contact-border, .border-shadow-inner {
+    border-radius: 50px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+#footer-sosmed .border-shadow-inner {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.bukti {
+    background: #141b4c;
+}
+
+.fb {
+    background: #001362;
+}
+
+.tw {
+    background: #002f60;
+}
+
+.yt {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#670b5b+0,ca3602+100 */
+background: #670b5b; /* Old browsers */
+background: -moz-linear-gradient(top,  #670b5b 0%, #ca3602 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #670b5b 0%,#ca3602 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #670b5b 0%,#ca3602 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#670b5b', endColorstr='#ca3602',GradientType=0 ); /* IE6-9 */
+}
+
+.ig {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#8b0a7a+0,c40a17+100 */
+background: #8b0a7a; /* Old browsers */
+background: -moz-linear-gradient(top,  #8b0a7a 0%, #c40a17 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #8b0a7a 0%,#c40a17 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #8b0a7a 0%,#c40a17 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b0a7a', endColorstr='#c40a17',GradientType=0 ); /* IE6-9 */
+}
+
+.bukti .border-shadow-inner {
+    box-shadow: 0 0 20px #8c4320 inset;
+}
+
+.fb .border-shadow-inner {
+    box-shadow: 0 0 20px #003aa8 inset;
+}
+
+.tw .border-shadow-inner {
+    box-shadow: 0 0 20px #0072ac inset;
+}
+
+.yt .border-shadow-inner {
+    /*box-shadow: 0 0 20px #ff2d2f inset;*/
+}
+
+.ig .border-shadow-inner {
+    box-shadow: 0 0 20px #850947 inset;
+}
+
+.bukti .contact-border {
+    border:2px solid #ff8a00;
+    box-shadow: 0 0 20px #8c4320;
+}
+
+.fb .contact-border {
+    border:2px solid #09c6fe;
+    box-shadow: 0 0 20px #003cac;
+}
+
+.tw .contact-border {
+    border:2px solid #07eedf;
+    box-shadow: 0 0 20px #00568c;
+}
+
+.yt .contact-border {
+    border:2px solid #ff2d2f;
+    box-shadow: 0 0 20px #900604;
+}
+
+.ig .contact-border {
+    border:2px solid #ff6ca9;
+    box-shadow: 0 0 20px #8f0a36;
+}
+
+.contact-text {
+    font-weight: bold;
+    color: #fff;
+    margin-left: 5px;
+    letter-spacing: 0px;
+    font-size:13px;
+    text-transform: uppercase;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(0) {
+    content: url(https://livedrawonline.net/img/market/PAR.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+    content: url(https://livedrawonline.net/img/market/VIR.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+    content: url(https://livedrawonline.net/img/market/TEX.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+    content: url(https://livedrawonline.net/img/market/TM.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+    content: url(https://livedrawonline.net/img/market/WEST.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+    content: url(https://livedrawonline.net/img/market/TAI.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+    content: url(https://livedrawonline.net/img/market/NJ.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+    content: url(https://livedrawonline.net/img/market/SING.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+    content: url(https://livedrawonline.net/img/market/syd.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+    content: url(https://livedrawonline.net/img/market/PEN.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+    content: url(https://livedrawonline.net/img/market/PCSO.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+    content: url(https://livedrawonline.net/img/market/NY.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+    content: url(https://livedrawonline.net/img/market/ORE.gif) !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+    content: url(https://livedrawonline.net/img/market/OH.gif) !important;
+}
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+    content: url(https://livedrawonline.net/img/market/NET.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+    content: url(https://livedrawonline.net/img/market/NC.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+    content: url(https://livedrawonline.net/img/market/MARYLAND.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+    content: url(https://livedrawonline.net/img/market/KENT.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+    content: url(https://livedrawonline.net/img/market/HK.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+    content: url(https://livedrawonline.net/img/market/FLA.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+    content: url(https://livedrawonline.net/img/market/NC.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+    content: url(https://livedrawonline.net/img/market/CONN.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+    content: url(https://livedrawonline.net/img/market/CAL.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+    content: url(https://livedrawonline.net/img/market/DC.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {
+    content: url(https://livedrawonline.net/img/market/GEORGIA.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {
+    content: url(https://livedrawonline.net/img/market/BULL.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {
+    content: url(https://livedrawonline.net/img/market/PAR.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {
+    content: url(https://livedrawonline.net/img/market/VIR.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {
+    content: url(https://livedrawonline.net/img/market/TEX.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {
+    content: url(https://livedrawonline.net/img/market/TM.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {
+    content: url(https://livedrawonline.net/img/market/WEST.gif) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {
+    content: url(https://livedrawonline.net/img/market/24D.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {
+    content: url(https://livedrawonline.net/img/market/SUWIT.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {
+    content: url(https://livedrawonline.net/img/market/NIUNIU.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {
+    content: url(https://livedrawonline.net/img/market/SICBODICE.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) {
+    content: url(https://livedrawonline.net/img/market/ROULETTE.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) {
+    content: url(https://livedrawonline.net/img/market/HEADTAIL.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {
+    content: url(https://livedrawonline.net/img/market/REDWHITE.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) {
+    content: url(https://livedrawonline.net/img/market/POKERDICE.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) {
+    content: url(https://livedrawonline.net/img/market/OGLOK.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(40) {
+    content: url(https://livedrawonline.net/img/market/12DSPIN.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(41) {
+    content: url(https://livedrawonline.net/img/market/GONGBALL.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(42) {
+    content: url(https://livedrawonline.net/img/market/MP.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(43) {
+    content: url(https://livedrawonline.net/img/market/DICE6.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(44) {
+    content: url(https://livedrawonline.net/img/market/BILLIARDS.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(45) {
+    content: url(https://livedrawonline.net/img/market/BILLIARDS.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(46) {
+    content: url(https://livedrawonline.net/img/market/24DSPIN.gif?v=2) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(47) {
+    content: url(https://livedrawonline.net/img/market/SUWIT.gif?v=2) !important;
+}
